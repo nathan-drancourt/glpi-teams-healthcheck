@@ -245,4 +245,4 @@ Distribué sous licence **MIT**. Voir le fichier [`LICENSE`](LICENSE).
 ## 👤 Auteur
 
 **Nathan Drancourt** — Administrateur Systèmes & Réseaux
-GitHub : [@ImNvthan](https://github.com/ImNvthan)
+GitHub : [@nathan-drancourt](https://github.com/nathan-drancourt)
