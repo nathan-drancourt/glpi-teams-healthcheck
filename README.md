@@ -1,5 +1,7 @@
 # 🔔 GLPI Teams Healthcheck
 
+![Aperçu du projet glpi-teams-healthcheck](docs/banner.png)
+
 > Supervision automatisée de **GLPI** avec envoi d'**alertes Microsoft Teams** — script Bash, déclenché par cron, avec mécanisme anti-spam.
 
 Ce projet met en place un script de contrôle qui surveille en continu une instance **GLPI** (disponibilité web, services système, collecteur mail, erreurs applicatives) et envoie une alerte dans un canal **Microsoft Teams** uniquement lorsque l'état change — évitant ainsi le spam d'alertes répétées.
